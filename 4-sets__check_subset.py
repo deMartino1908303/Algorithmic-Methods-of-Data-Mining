@@ -10,3 +10,4 @@ while  iterable > 0:
         print(False)
     else:
         print(True)
+    iterable -= 1
